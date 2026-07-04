@@ -59,7 +59,7 @@ Mi trabajo diario incluye auditorías de seguridad, supervisión de servidores y
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | 🔒 [Digital Privacy Guide](https://github.com/Y2208/digital-privacy-guide) | 18-page guide on digital privacy best practices | Research · Technical Writing |
-| 🚩 CTF Write-ups | Solutions and documentation of security challenges | TryHackMe · HackTheBox |
+| 🚩 [CTF Write-ups](https://github.com/Y2208/ctf-writeups) | Solutions and documentation of security challenges | TryHackMe · HackTheBox · OverTheWire |
 | 🛡️ [Security Case Studies](https://github.com/Y2208/security-case-studies) | Real-world security scenarios (anonymized) | Network Security · Auditing |
 | 🛡️ [Certifications](https://github.com/Y2208/certifications) | Professional cybersecurity certifications and training | Segurmatica · ISC2 |
 
